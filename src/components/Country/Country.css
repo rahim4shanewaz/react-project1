@@ -1,0 +1,12 @@
+.country{
+    height: 400px;
+    width: 400px;
+    border: 1px solid greenyellow;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: beige;
+}
+.country img{
+    height: 100px;
+    width: 150px;
+}
